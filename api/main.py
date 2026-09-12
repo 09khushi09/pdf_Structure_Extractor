@@ -62,7 +62,7 @@ app = FastAPI(
     version=API_VERSION,
     contact={
         "name": "GitHub Repository",
-        "url": "https://github.com/harsh07032004/PDF_HEADINGEXTRACTOR",
+        "url": "https://github.com/09khushi09/pdf_Structure_Extractor",
     },
     license_info={"name": "ME"},
 )
