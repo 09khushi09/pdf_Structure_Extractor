@@ -180,7 +180,7 @@ Uploads a PDF and returns extracted headings.
 ### Install
 
 ```bash
-git clone https://github.com/harsh07032004/PDF_HEADINGEXTRACTOR.git
+git clone https://github.com/09khushi09/pdf_Structure_Extractor.git
 cd PDF_HEADINGEXTRACTOR
 python -m venv .venv
 source .venv/bin/activate  # On Windows: .venv\Scripts\activate
